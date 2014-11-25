@@ -1,0 +1,12 @@
+psuedocode
+
+2 players
+
+answers = rock, paper, scissors
+player choice
+random computer choice
+
+rules
+	check winning answers
+
+	display winner
