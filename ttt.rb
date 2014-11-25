@@ -1,7 +1,5 @@
 =begin
-
 Play a game of Tic Tac Toe by invoking Ttt.ttt
-
 =end
 
 class Ttt
